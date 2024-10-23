@@ -27,7 +27,7 @@ input.addEventListener('keydown', function (event) {
 });
 
 function processCommand(command) {
-    output.innerHTML += `<p>C:\\Users\\Ariaw&gt;${command}</p>`;
+    output.innerHTML += `<p>root@ariaw:~$ ${command}</p>`;
     switch (command.toLowerCase()) {
         case 'help':
             output.innerHTML += `
@@ -40,16 +40,16 @@ function processCommand(command) {
             `;
             break;
         case 'about':
-            output.innerHTML += '<p>I am a web designer with a passion for creating stunning websites.</p>';
+            output.innerHTML += '<p>Hello, I’m Aria, and I have nothing else to say.</p>';
             break;
         case 'skills':
-            output.innerHTML += '<p>HTML, CSS, JavaScript, React, Tailwind CSS</p>';
+            output.innerHTML += '<p>HTML, CSS, JavaScript, Bootstrap, Bulma, Tailwind CSS, Php, Sql, Python and ...</p>';
             break;
         case 'projects':
-            output.innerHTML += '<p>1. Project A<br>2. Project B<br>3. Project C</a></p>';
+            output.innerHTML += '<p>1. Project A<br>2. Project B<br>3. Project C</p>';
             break;
         case 'contact':
-            output.innerHTML += '<p>Email: email@example.com</p>';
+            output.innerHTML += '<p>Telegram: @ariaw</p>';
             break;
         case 'cls':
             output.innerHTML = '';
