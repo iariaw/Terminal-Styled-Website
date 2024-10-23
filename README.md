@@ -1,8 +1,12 @@
 # Terminal Styled Personal Website
 
-This project is a simple personal website designed to resemble an Ubuntu terminal. It allows users to type commands to get information about the owner, including details such as skills, projects, and contact information.
+This project is a simple personal website designed to resemble an Ubuntu terminal. It allows users to type commands to get information, such as skills, projects, and contact details.
 
-## Demo
+## Preview
+
+![Preview](Preview.png)
+
+## Online Demo
 
 You can view a demo of the website here: https://iariaw.github.io/
 
@@ -11,8 +15,8 @@ You can view a demo of the website here: https://iariaw.github.io/
 | Command  | Description                                   |
 |----------|-----------------------------------------------|
 | `help`   | Shows available commands.                     |
-| `about`  | Provides information about the owner.         |
-| `skills` | Lists the owner's skills (e.g., HTML, CSS).   |
-| `projects` | Displays the owner's project list.         |
-| `contact`| Provides the owner's contact details.         |
+| `about`  | Provides a brief introduction.                |
+| `skills` | Lists relevant skills (e.g., HTML, CSS).      |
+| `projects` | Displays the project list.                  |
+| `contact`| Provides contact details.                     |
 | `cls`    | Clears the terminal screen.                   |
