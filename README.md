@@ -2,11 +2,7 @@
 
 This project is a simple personal website designed to resemble an Ubuntu terminal. It allows users to type commands to get information, such as skills, projects, and contact details.
 
-## Preview
-
-![Preview](./Preview.png)
-
-## Online Demo
+## Demo
 
 You can view a demo of the website here: https://iariaw.github.io/
 
