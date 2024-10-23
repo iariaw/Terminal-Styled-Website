@@ -4,7 +4,7 @@ This project is a simple personal website designed to resemble an Ubuntu termina
 
 ## Preview
 
-![Preview](Preview.png)
+![Preview](./Preview.png)
 
 ## Online Demo
 
