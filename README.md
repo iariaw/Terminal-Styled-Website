@@ -4,7 +4,7 @@ This project is a simple personal website designed to resemble an Ubuntu termina
 
 ## Demo
 
-You can view a demo of the website here: https://iariaw.github.io/
+You can view a demo of the website here: https://terminal.ariaw.ir
 
 ## Commands
 
